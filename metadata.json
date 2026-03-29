@@ -1,0 +1,5 @@
+{
+  "name": "VenceControl: Rastreador de Inventario",
+  "description": "Aplicación para el seguimiento de inventario y fechas de vencimiento con alertas visuales de semáforo.",
+  "requestFramePermissions": []
+}
